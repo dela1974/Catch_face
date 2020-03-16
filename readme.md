@@ -1,1 +1,2 @@
-#Get avatars in pictures through openCV
+#Get avatars in pictures 
+through openCV
